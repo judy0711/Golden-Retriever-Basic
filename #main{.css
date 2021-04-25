@@ -1,0 +1,47 @@
+#main{
+  background-color: #C2C3A4;
+}
+body{
+  text-align: center;
+}
+
+h1{
+  font-family: center;
+  font-size: 55px;
+}
+
+h2{
+  color: #737361;
+  
+}
+
+#image{
+  height: 40%;
+  width: 40%;
+  align: left;
+}
+
+#p{
+font-family: Helvetica;  
+}
+
+#img-caption{
+  font-size: 13px;
+  
+  background-color: #9A9B82;
+  border-radius: 25px;
+  border: 6px solid #9A9B82;
+  padding: 2px 10px;
+  width: 200px;
+  height: 27px;
+  margin-left: 600px;
+  
+  
+  
+}
+
+#tribute-info{
+ 
+  
+  
+}
